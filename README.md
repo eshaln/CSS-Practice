@@ -56,4 +56,4 @@ CSS-Practice/
 
 ## Author
 
-**Eshal Naeem**
+**Eshal Naeem Raja**
